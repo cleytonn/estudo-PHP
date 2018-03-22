@@ -1,0 +1,48 @@
+		CARACTERÍSTICAS
+
+*Linguagem de programação
+*Roda diretamente no servidor
+*"Fácil de programar"
+
+-----------------------------------------
+		VANTAGENS
+
+*Grande Comunidade
+*Gratuito
+*Muitos Recursos 
+*Frameworks e bibliotecas
+*Extremamente Rápido
+*Constantes Atualizações
+
+-----------------------------------------
+		FRONT-END 
+
+*Parte da Frente
+*Parte Visual
+*O que o navegador executa
+*HTML, CSS, JAVASCRIPT
+
+--------------------------------------------------------------------
+		BACK-END
+
+*Parte de 'Trás' -> Tudo o que é executado diretamente no servidor
+*Servidor
+*PHP, Banco de Dados
+
+--------------------------------------------------------------------
+		SERVIDOR APACHE(Parte do Back-End)
+
+*Servidor Web
+*Protocolo HTTP
+*Representa quase 50% dos servidores WEB ativos atualmente
+*Windows, Linux, Mac
+*Seguro
+*Estável
+
+		FUNCIONAMENTO(Garçom)
+
+# Acessamos o site ->->-> enviamos a requisição para o Servidor (REQUEST)
+# Servidor ->->-> Navegador (RESPONSE)
+# Conteúdo Mostrado ->->-> FRONT-END
+
+
